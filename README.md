@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @stiutin
+- 👀 I’m interested in front-end development. My main working tool is Angular
+- 🌱 I’m currently learning PHP and Python
