@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @stiutin
-- 👀 I’m interested in front-end development. My main working tool is Angular
-- 🌱 I’m currently learning PHP and Python
+- 👋 Hi, my name is Serge Tiutin
+- :computer: I work as a front-end developer since 2016
+- :muscle: Solid background and advanced knowledge in computer development software including TypeScript, JavaScript, Angular, AngularJS, RxJs, NgRx, HTML, Pug, CSS, Sass, Scss, and Less
+- 👀 Interested in music, front-end development, rock concerts, and traveling
+- 🌱 Currently learning PHP and Python
