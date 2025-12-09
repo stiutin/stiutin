@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Serge Tiutin
 - :computer: I've been working as a frontend web developer since 2016
-- :muscle: Solid background and advanced knowledge in computer development software including TypeScript, Angular, NextJs, and Python
-- 👀 Interested in computer programming, heavy music, learning languages, and travelling
+- :muscle: Solid background and advanced knowledge in TypeScript, Angular, Vue 3
+- 👀 Interested in computer programming, attending rock concerts, learning languages, and travelling
