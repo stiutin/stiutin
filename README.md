@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Serge Tiutin
-- :computer: I've been working as a frontend engineer since 2016
-- :muscle: Solid background and advanced knowledge in TypeScript, Angular, React
+- :computer: I've been working as a software engineer since 2016
+- :muscle: Solid background and advanced knowledge in Angular, React, Vue, Laravel, and Express
 - 👀 Interested in computer programming, attending rock concerts, learning languages, and travelling
