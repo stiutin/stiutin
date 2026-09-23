@@ -6,13 +6,13 @@
 
 * 💻 **10 years of professional software development experience**
 * 🧑‍💻 **Senior Software Engineer**
-* 🅰️ Extensive experience with **Angular, React & Next.js**
 * 🔷 Strong **TypeScript, JavaScript, PHP** background
+* 🅰️ Frontend experience with **Angular and React**
 * 🖥️ Backend development with **Express.js, NestJS and Laravel**
-* 🏗️ Frontend architecture, scalable applications and reusable component systems
+* 🏗️ Architecture, scalable applications and reusable component systems
 * ⚡ Performance optimization and production troubleshooting
 * 🤝 Mentoring developers and taking ownership of technical decisions
-* 🤖 Daily use of AI-assisted development tools such as GitHub Copilot and Claude
+* 🤖 Daily use of AI-assisted development tools (GitHub Copilot and Claude Code)
 
 ---
 
