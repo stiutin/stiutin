@@ -118,5 +118,3 @@ When I'm not coding, I'm usually:
 🎸 listening to music
 🎬 watching films
 🌍 travelling
-🇪🇸 learning Spanish
-🇩🇪 improving my German
