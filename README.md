@@ -40,19 +40,11 @@
 
 ### Graphics & Interactive Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=threejs" />
-</p>
-
 **Three.js** · **WebGL** · **PixiJS** · **D3.js**
 
 ---
 
 ### Tools & Workflow
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode" />
-</p>
 
 **Git** · **GitHub** · **GitLab** · **Docker** · **CI/CD**
 
@@ -125,16 +117,3 @@ When I'm not coding, I'm usually:
 🌍 travelling
 🇪🇸 learning Spanish
 🇩🇪 improving my German
-
----
-
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/stiutin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-### 💬 Senior Software Engineer focused on building modern, scalable web applications.
-
