@@ -8,7 +8,7 @@
 * 🧑‍💻 **Senior Software Engineer**
 * 🔷 Strong **TypeScript, JavaScript, PHP** background
 * 🅰️ Frontend development with **Angular and React**
-* 🖥️ Backend development with **Express.js, NestJS and Laravel**
+* 🖥️ Backend development with **Express.js, NestJS, and Laravel**
 * 🏗️ Architecture, scalable applications and reusable component systems
 * ⚡ Performance optimization and production troubleshooting
 * 🤝 Mentoring developers and taking ownership of technical decisions
