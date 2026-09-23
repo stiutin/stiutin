@@ -69,32 +69,6 @@ My experience includes:
 
 ---
 
-## ⚡ Core Technologies
-
-```text
-Frontend
-├── Angular
-├── React
-├── TypeScript
-└── JavaScript
-
-Backend
-├── Express.js
-├── NestJS
-├── Laravel
-└── PHP
-
-
-Other
-├── Firebase
-├── Three.js
-├── PixiJS
-├── D3.js
-└── Docker / CI/CD
-```
-
----
-
 ## 🧠 Engineering Philosophy
 
 I care about building software that remains understandable and maintainable as it grows.
