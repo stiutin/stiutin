@@ -7,7 +7,7 @@
 * 💻 **10 years of professional software development experience**
 * 🧑‍💻 **Senior Software Engineer**
 * 🔷 Strong **TypeScript, JavaScript, PHP** background
-* 🅰️ Frontend experience with **Angular and React**
+* 🅰️ Frontend development with **Angular and React**
 * 🖥️ Backend development with **Express.js, NestJS and Laravel**
 * 🏗️ Architecture, scalable applications and reusable component systems
 * ⚡ Performance optimization and production troubleshooting
@@ -76,11 +76,14 @@ Frontend
 ├── Angular
 ├── React
 ├── TypeScript
+└── JavaScript
 
 Backend
 ├── Express.js
 ├── NestJS
-└── Laravel
+├── Laravel
+└── PHP
+
 
 Other
 ├── Firebase
